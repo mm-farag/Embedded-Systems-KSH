@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;unit2_Lesson6_Slide16_Employee_Bubble_Sort_Nested_Structure_Using_Function/unit2_Lesson3_Slide16_Employee_Bubble_Sort_Nested_Structure_Using_Function.c&apos; to &apos;unit2_Lesson6_Slide16_Employee_Bubble_Sort_Nested_Structure_Using_Function.c&apos;" description="Rename resource &apos;unit2_Lesson3_Slide16_Employee_Bubble_Sort_Nested_Structure_Using_Function.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="unit2_Lesson3_Slide16_Employee_Bubble_Sort_Nested_Structure_Using_Function.c" name="unit2_Lesson6_Slide16_Employee_Bubble_Sort_Nested_Structure_Using_Function.c" stamp="1612269984011" updateReferences="true"/>
+</session>
